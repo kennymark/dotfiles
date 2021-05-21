@@ -1,3 +1,3 @@
 # dotfiles
 
-Kent's Doddfiles... get it dot, dodd; yeah you get it.
+My personal dotfiles for fresh mac installs
